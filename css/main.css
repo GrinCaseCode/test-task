@@ -304,8 +304,8 @@ a {
 	animation-fill-mode: forwards;
 }
 .step-1 {
-	-webkit-animation: step1 2s;
-	animation: step1 2s;
+	-webkit-animation: step1 2s linear;
+	animation: step1 2s linear;
 
 	-webkit-animation-fill-mode: forwards;
 	-moz-animation-fill-mode: forwards;
@@ -314,8 +314,8 @@ a {
 	animation-fill-mode: forwards;
 }
 .step-2 {
-	-webkit-animation: step2 2s;
-	animation: step2 2s;
+	-webkit-animation: step2 2s linear;
+	animation: step2 2s linear;
 	-webkit-animation-fill-mode: forwards;
 	-moz-animation-fill-mode: forwards;
 	-ms-animation-fill-mode: forwards;
@@ -324,8 +324,8 @@ a {
 }
 
 .step-3 {
-	-webkit-animation: step3 2s;
-	animation: step3 2s;
+	-webkit-animation: step3 2s linear;
+	animation: step3 2s linear;
 	-webkit-animation-fill-mode: forwards;
 	-moz-animation-fill-mode: forwards;
 	-ms-animation-fill-mode: forwards;
@@ -334,8 +334,8 @@ a {
 }
 
 .step-4 {
-	-webkit-animation: step4 2s;
-	animation: step4 2s;
+	-webkit-animation: step4 2s linear;
+	animation: step4 2s linear;
 	-webkit-animation-fill-mode: forwards;
 	-moz-animation-fill-mode: forwards;
 	-ms-animation-fill-mode: forwards;
@@ -343,8 +343,8 @@ a {
 	animation-fill-mode: forwards;
 }
 .step-5 {
-	-webkit-animation: step5 2s;
-	animation: step5 2s;
+	-webkit-animation: step5 2s linear;
+	animation: step5 2s linear;
 	-webkit-animation-fill-mode: forwards;
 	-moz-animation-fill-mode: forwards;
 	-ms-animation-fill-mode: forwards;
@@ -352,8 +352,8 @@ a {
 	animation-fill-mode: forwards;
 }
 .step-6 {
-	-webkit-animation: step6 2s;
-	animation: step6 2s;
+	-webkit-animation: step6 2s linear;
+	animation: step6 2s linear;
 	-webkit-animation-fill-mode: forwards;
 	-moz-animation-fill-mode: forwards;
 	-ms-animation-fill-mode: forwards;
@@ -361,8 +361,8 @@ a {
 	animation-fill-mode: forwards;
 }
 .step-7 {
-	-webkit-animation: step7 2s;
-	animation: step7 2s;
+	-webkit-animation: step7 2s linear;
+	animation: step7 2s linear;
 	-webkit-animation-fill-mode: forwards;
 	-moz-animation-fill-mode: forwards;
 	-ms-animation-fill-mode: forwards;
@@ -370,8 +370,8 @@ a {
 	animation-fill-mode: forwards;
 }
 .step-8 {
-	-webkit-animation: step8 2s;
-	animation: step8 2s;
+	-webkit-animation: step8 2s linear;
+	animation: step8 2s linear;
 	-webkit-animation-fill-mode: forwards;
 	-moz-animation-fill-mode: forwards;
 	-ms-animation-fill-mode: forwards;
