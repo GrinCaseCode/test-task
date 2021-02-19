@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Document</title>
+</head>
+<body>
+
+    <p id="elements"> </p>
+    <script>
+
+        var myObject = [{
+            firstname: "Jane",
+            lastname: "Doe",
+            email: "jdoe@email.com"
+        }, {
+            firstname: "Ja",
+            lastname: "joe",
+            email: "je@email.com"
+        }, {
+            firstname: "Janet",
+            lastname: "joes",
+            email: "jsse@email.com"
+        }];
+        myObject.forEach(element => {
+   document.getElementById("elements").innerHTML= JSON.stringify(myObject); 
+});
+
+
+        </script>
+</body>
+</html>
